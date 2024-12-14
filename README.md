@@ -2,11 +2,15 @@
 
 Mumbai, India | asanmith@gmail.com | [LinkedIn](https://www.linkedin.com/in/sanmith/) | [GitHub](https://github.com/defsanmith) | [sanmith.dev](https://sanmith.dev)
 
-## Full Stack Developer
+## Software Development Engineer
 
-As a seasoned Full Stack Engineer and Team Lead, my professional journey spans over three years of hands-on experience, delving into diverse projects ranging from establishing a hub for companies to outsource developers to crafting solutions for India’s leading automobile firm. Each venture has been a thrilling exploration, instilling in me a profound appreciation for the convergence of cutting-edge technology and practical implementation.
+With over three years of experience as a Full-Stack Developer, I specialize in transforming complex challenges into seamless digital solutions. My expertise spans frameworks like React, Next.js, Spring Boot, and cloud platforms like AWS. Whether building robust APIs or crafting intuitive user interfaces, I focus on delivering impactful results that align with business goals.
 
-Currently, I am advancing my expertise as a Master’s student in Software Engineering at the University of California, Irvine. This academic pursuit is enriching my understanding of advanced software engineering principles, further enhancing my ability to lead and innovate. By integrating my practical experience with rigorous academic training, I am preparing to tackle the next generation of challenges in the tech industry, continuing to push the boundaries of what technology can achieve.
+In my role at ZedexInfo, I streamlined development efficiency by 40% through reusable frameworks and optimized data flows using Redux Toolkit Query. At Cardekho, I enhanced a high-traffic car-selling platform, collaborating with stakeholders to drive a 15% increase in user retention. Across every project, my priority has been bridging technical innovation with user-centric design.
+
+Beyond development, I take pride in mentoring junior engineers and fostering collaborative environments. My leadership experience has equipped me with the skills to guide teams toward consistent success.
+
+I'm pursuing my Master's in Software Engineering at UC Irvine, where I’m honing my knowledge of advanced software practices. Passionate about cutting-edge tech, I aim to contribute to forward-thinking companies as a Software Development Engineer.
 
 ## Skills
 
