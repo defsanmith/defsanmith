@@ -42,7 +42,7 @@ I'm pursuing my Master's in Software Engineering at UC Irvine, where I’m honin
 
 - Implemented a new business flow for selling used cars on a platform with over 20,000 daily users, collaborating closely with executives and cross-functional teams to enhance user experience and increase conversion rates by 15%.
 - Developed product features by working closely with stakeholders and partners to translate feature specifications into tangible solutions, leveraging full-stack development skills to align with business expectations.
-- Provided operational support and collaborated with cross-functional teams to identify root causes of production issues, ensuring timely resolutions and maintaining high system reliability to prevent site outages within 24 hours..
+- Provided operational support and collaborated with cross-functional teams to identify root causes of production issues, ensuring timely resolutions and maintaining high system reliability to prevent site outages within 24 hours.
 - Implemented performance optimization techniques to enhance the responsiveness and efficiency of web and mobile applications.
 
 
