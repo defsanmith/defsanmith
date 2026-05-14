@@ -16,7 +16,7 @@ I’m currently seeking full-time opportunities where I can own impactful featur
 
 ### Software Engineer - [FinInsights.ai](https://www.fininsights.ai/)
 
-#### Mumbai | Jun 2025 - Dec 2025
+#### Remote | Jun 2025 - Dec 2025
 
 ### Lead Software Engineer - [Zedex Info Pvt. Ltd.](https://zedexinfo.com/)
 
